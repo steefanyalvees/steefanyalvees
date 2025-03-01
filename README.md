@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Java Projects (AlgoExpert)</b>
+- <b>Java Projects </b>
   - [NFC Application](https://github.com/steefanyalvees/NfcApplication/blob/main/NfcApplication.zip)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
