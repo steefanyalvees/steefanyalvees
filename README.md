@@ -24,9 +24,8 @@ I’m currently looking for new opportunities to grow professionally and contrib
 
 - <b>Java Projects </b>
   - [APIs](https://github.com/steefanyalvees/productAPI)
-
-
-- <b>Python Projects</b>
+  - (https://github.com/steefanyalvees/java-Crud-API)](https://github.com/steefanyalvees/java-Crud-API)
+  - <b>Python Projects</b>
   - Credit Card Fraud Detection (https://github.com/steefanyalvees/creditcard_fraudDetection)
 
 
