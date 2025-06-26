@@ -20,7 +20,7 @@ I’m currently looking for new opportunities to grow professionally and contrib
 
  
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>👨‍💻My Personal Projects:</h2>
 
 - <b>Java Projects </b>
   - [APIs](https://github.com/steefanyalvees/productAPI)
