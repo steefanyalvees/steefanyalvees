@@ -18,18 +18,6 @@ I’m currently looking for new opportunities to grow professionally and contrib
 ⚡ Fun fact: I’m passionate about problem-solving and love a good challenge!
 
 
- 
-
-<h2>👨‍💻My Personal Projects:</h2>
-
-- <b>Java Projects </b>
-  - [APIs](https://github.com/steefanyalvees/productAPI)
-  - (https://github.com/steefanyalvees/java-Crud-API)](https://github.com/steefanyalvees/java-Crud-API)
-  - <b>Python Projects</b>
-  - Credit Card Fraud Detection (https://github.com/steefanyalvees/creditcard_fraudDetection)
-
-
-
 
 
 
