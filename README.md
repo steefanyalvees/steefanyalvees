@@ -2,7 +2,7 @@
 
 Hi there 👋 I’m Stefany! </h1>
 
-<h2> 
+<b>
 I’m a backend developer passionate about building robust and scalable systems using Java, Spring Boot, and RESTful APIs. 
 I hold a Bachelor’s degree in Information Technology and a Master’s degree in Computing.
 
@@ -17,7 +17,7 @@ I’m currently looking for new opportunities to grow professionally and contrib
 🌍 Based in Ireland | Languages: English & Portuguese
 ⚡ Fun fact: I’m passionate about problem-solving and love a good challenge!
 
-
+</b>
  
 
 <h2>👨‍💻 My Projects:</h2>
